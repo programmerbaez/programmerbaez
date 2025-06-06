@@ -17,6 +17,6 @@ I am passionate about continuous learning and creating clean, maintainable softw
 # Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=programmerbaez&theme=onedark&short_numbers=true)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
