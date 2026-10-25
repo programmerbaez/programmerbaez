@@ -9,11 +9,6 @@ My experience includes working with multiple programming languages ​​and fra
 
 I am passionate about continuous learning and creating clean, maintainable software, with a special emphasis on delivering intuitive and high-performance user experiences. Outside of the technical field, I enjoy coffee and the company of cats, interests that complement my professional profile.
 
-# Chat with me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breiner-andr%C3%A9s-rodr%C3%ADguez-b%C3%A1ez-379182364/)
-[![WhatsApp](https://img.shields.io/badge/whatsapp-0ac266?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573212374198
-)
-
 # Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=programmerbaez&theme=onedark&short_numbers=true)](https://git.io/streak-stats)
 
